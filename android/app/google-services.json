@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453864404721",
+    "project_id": "flutter-chat-app-twopounds",
+    "storage_bucket": "flutter-chat-app-twopounds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453864404721:android:74050cd303b7d4f89b5b50",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ybvCvK-B_yWkwSwPR26DvXhokdRdNWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
